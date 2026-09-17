@@ -1,5 +1,5 @@
 
-Exercicios de so do 18 ao 45 
+Exercicios de SO do 18 ao 45 em pythin
 
 Prof. Leandro Colevati  FATEC ZL
 
