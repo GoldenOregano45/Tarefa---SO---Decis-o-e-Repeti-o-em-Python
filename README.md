@@ -42,7 +42,6 @@ Calcule e mostre o valor corrigido em 30 dias sabendo que a poupança = 3% e a r
 Demais tipos não serão considerados.
 31. Calcule e mostre o quadrado dos números entre 10 e 150.
 32. Receba um número inteiro. Calcule e mostre o seu fatorial.
-
 Python para SO – Condicional e Repetição Sistemas Operacionais
 Prof. Leandro Colevati FATEC ZL
 33. Receba um número. Calcule e mostre a série 1 + 1/2 + 1/3 + ... + 1/N.
